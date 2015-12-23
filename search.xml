@@ -5,7 +5,7 @@
     
     <entry>
       <title><![CDATA[my first post]]></title>
-      <url>http://yoursite.com/2015/12/23/my-first-post/</url>
+      <url>http://yoursite.com/2015/12/24/my-first-post/</url>
       <content type="html"><![CDATA[<h1 id="u8FD9_u91CC_u662F_u6211_u7684_u7B2C_u4E00_u7BC7_u6D4B_u8BD5_u535A_u5BA2"><a href="#u8FD9_u91CC_u662F_u6211_u7684_u7B2C_u4E00_u7BC7_u6D4B_u8BD5_u535A_u5BA2" class="headerlink" title="这里是我的第一篇测试博客"></a>这里是我的第一篇测试博客</h1><p>先写个<code>hello world</code>吧，看看效果如何。</p>
 <pre><code>main()
 {
